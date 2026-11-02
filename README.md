@@ -6,7 +6,10 @@
 
 ## 下载
 
-下载 [PBZItemGiver-0.5.1.zip](./PBZItemGiver-0.5.1.zip)，解压后按下方说明安装。请下载这个模组压缩包，而不是 GitHub 的整个仓库源码包。
+- **模组下载**：[PBZItemGiver-0.5.1.zip](https://github.com/BAIGUANGMEI/PBZ-Item-Giver/releases/download/v0.5.1/PBZItemGiver-0.5.1.zip) · [Release 页面](https://github.com/BAIGUANGMEI/PBZ-Item-Giver/releases/tag/v0.5.1)
+- **UE4SS 下载**：[官方 Releases](https://github.com/UE4SS-RE/RE-UE4SS/releases) · [官方安装文档](https://docs.ue4ss.com/installation-guide.html)
+
+下载模组压缩包后按下方说明安装。请在 Release 的 **Assets** 中选择 `PBZItemGiver-0.5.1.zip`，不要下载自动生成的 `Source code` 压缩包。UE4SS 请使用适用于本作的版本及配置。
 
 ## 功能
 
@@ -21,7 +24,7 @@
 
 ### 前置条件
 
-- 已安装《影之刃零》，并有能够正常加载本作 Lua 模组的 **UE4SS 适配环境**。
+- 已安装《影之刃零》，并有能够正常加载本作 Lua 模组的 **UE4SS 适配环境**。加载器可从 [UE4SS 官方 Releases](https://github.com/UE4SS-RE/RE-UE4SS/releases) 下载，安装方式参见 [官方文档](https://docs.ue4ss.com/installation-guide.html)。
 - 本压缩包包含模组脚本和 ModMenu 菜单框架，**不包含 UE4SS 加载器**。
 - 游戏版本和 UE4SS 适配情况会影响可用性；本项目未提供适用于所有版本的兼容性保证。
 
