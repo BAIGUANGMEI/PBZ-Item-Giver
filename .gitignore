@@ -1,0 +1,4 @@
+dist/
+installer/bin/
+installer/test-output/
+*.user

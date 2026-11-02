@@ -6,10 +6,11 @@
 
 ## 下载
 
+- **Windows 图形安装器**：[独立 EXE](https://github.com/BAIGUANGMEI/PBZ-Item-Giver/releases/download/v0.5.1/PBZ-Item-Giver-Setup-0.5.1.exe) · [完整安装包 ZIP（含使用说明）](https://github.com/BAIGUANGMEI/PBZ-Item-Giver/releases/download/v0.5.1/PBZ-Item-Giver-Setup-0.5.1.zip)
 - **模组下载**：[PBZItemGiver-0.5.1.zip](https://github.com/BAIGUANGMEI/PBZ-Item-Giver/releases/download/v0.5.1/PBZItemGiver-0.5.1.zip) · [Release 页面](https://github.com/BAIGUANGMEI/PBZ-Item-Giver/releases/tag/v0.5.1)
 - **UE4SS 下载**：[官方 Releases](https://github.com/UE4SS-RE/RE-UE4SS/releases) · [官方安装文档](https://docs.ue4ss.com/installation-guide.html)
 
-下载模组压缩包后按下方说明安装。请在 Release 的 **Assets** 中选择 `PBZItemGiver-0.5.1.zip`，不要下载自动生成的 `Source code` 压缩包。UE4SS 请使用适用于本作的版本及配置。
+使用图形安装器时无需另下模组包；手动安装则下载 `PBZItemGiver-0.5.1.zip`，按下方说明操作。请在 Release 的 **Assets** 中选择对应文件，不要将自动生成的 `Source code` 压缩包当作安装包。UE4SS 请使用适用于本作的版本及配置。
 
 ## 功能
 
@@ -21,6 +22,12 @@
 - **记忆之花管理（实验性）**：可选择同步移除同一朵完整记忆之花及其关联花瓣，详见下方说明。
 
 ## 安装
+
+### Windows 图形安装器
+
+提供中文独立 EXE 安装器，支持选择游戏程序、查找和备份存档、下载或选择 UE4SS、安装模组、环境检查及安装文件回退。安装器内置 0.5.1 模组，无需另装 Python。
+
+从上方下载 EXE 或完整安装包即可使用，完整操作说明和源码构建方式见 [安装器说明](./installer/README.md)。安装器仅进行文件与环境检查，游戏兼容性仍需实机确认。
 
 ### 前置条件
 
